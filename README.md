@@ -14,9 +14,9 @@ Bu projede, Unity 3D ve C# kullanılarak Vampire Survivors benzeri basit bir hay
 - **Başlangıç ve Çıkış**: Oyuna başlamak için "Start", çıkmak için " Exit" kullanılır.
 
 ## **Kurulum**
-1. ** Unity Projesini Açın** : Unity Hub üzerinden projeyi açın.
+1. **Unity Projesini Açın**: Unity Hub üzerinden projeyi açın.
 2. **Başlangıç Sahnesi**: Projenin başlangıç sahnesinde"Star" butonuna tıklayın ve oyuna başlayın.
-## ** Nasıl Oynanır?**,
+## ** Nasıl Oynanır?**
 1. **Başlangıç**: Oyuna başlamak için **"Start"** butonuna tıklayın.
 2. **Karakter Seçimi**: Farklı özelliklere sahip karakterlerden birini seçin.
 3. **Hareket Kontrolü**: Klavyenizdeki yön tuşlarını kullanarak karakterinizi hareket ettirin ve düşmanlardan kaçının.
@@ -30,8 +30,8 @@ Bu projede, Unity 3D ve C# kullanılarak Vampire Survivors benzeri basit bir hay
 - **Q**: Kalkan aktif etme (Yetenek)
 - **E**: Ateş hızını arttırma(Yetenek)
 - **R**: Karakter hızını arttırma(Yetenek)
-- ** Start Butonu**: Oyuna başlama
-- ** ExitButonu**:  Oyundan çıkma
+- **Start Butonu**: Oyuna başlama
+- **ExitButonu**:  Oyundan çıkma
 
 ### **Notlar**
 - Bu oyun, bir prototiptir.
