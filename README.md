@@ -16,7 +16,8 @@ Bu projede, Unity 3D ve C# kullanılarak Vampire Survivors benzeri basit bir hay
 ## **Kurulum**
 1. **Unity Projesini Açın**: Unity Hub üzerinden projeyi açın.
 2. **Başlangıç Sahnesi**: Projenin başlangıç sahnesinde"Star" butonuna tıklayın ve oyuna başlayın.
-## ** Nasıl Oynanır?**
+
+## **Nasıl Oynanır?**
 1. **Başlangıç**: Oyuna başlamak için **"Start"** butonuna tıklayın.
 2. **Karakter Seçimi**: Farklı özelliklere sahip karakterlerden birini seçin.
 3. **Hareket Kontrolü**: Klavyenizdeki yön tuşlarını kullanarak karakterinizi hareket ettirin ve düşmanlardan kaçının.
